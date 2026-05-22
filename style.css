@@ -1,5 +1,35 @@
 *{
     box-sizing: border-box;
-    
-    
-}
+    background-color: rgb(238, 141, 186);  
+ }
+ main{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 850px;
+    height: 43px;
+    margin: 20px;
+    border: 20px;
+    background-color: rgb(89, 2, 34);
+ 
+ 
+ }
+ h1{
+    background-color: rgb(255, 0, 106);
+    color: rgb(255, 240, 247);
+ }
+ h3{
+    color: rgb(255, 0, 0);
+ }
+ p{
+    color: rgb(141, 0, 129);
+ }
+ span{
+    color: rgb(255, 0, 89);
+ }
+ img{
+    width: 100%;
+    margin-top: 100px;
+    align-items: center;
+ }
+ 
